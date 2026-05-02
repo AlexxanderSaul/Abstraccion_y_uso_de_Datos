@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1776311366 source:/home/alexandersaul/prac_abs2/Cola_pun/cola_pun.cpp
+	"cola_pun.h"
+	<iostream>
+
+1776311324 /home/alexandersaul/prac_abs2/Cola_pun/cola_pun.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1776310199 source:/home/alexandersaul/prac_abs2/Pila_arr_nd/main.cpp
+	<iostream>
+	"pila_arr_nd.h"
+
+1776310152 /home/alexandersaul/prac_abs2/Pila_arr_nd/pila_arr_nd.h
+

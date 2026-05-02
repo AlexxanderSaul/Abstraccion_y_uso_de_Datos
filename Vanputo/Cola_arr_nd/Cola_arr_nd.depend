@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1777683845 source:/home/alexandersaul/prac_abs2/Cola_arr_nd/cola_arr_nd.cpp
+	"cola_arr_nd.h"
+	<iostream>
+
+1777683847 /home/alexandersaul/prac_abs2/Cola_arr_nd/cola_arr_nd.h
+
+1777683843 source:/home/alexandersaul/prac_abs2/Cola_arr_nd/main.cpp
+	<iostream>
+	"cola_arr_nd.h"
+

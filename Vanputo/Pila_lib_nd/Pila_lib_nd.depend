@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1777700761 source:/home/alexandersaul/Unidad_2/Pila_lib_nd/main.cpp
+	<iostream>
+	"pila_lib_nd.h"
+
+1777700855 /home/alexandersaul/Unidad_2/Pila_lib_nd/pila_lib_nd.h
+	<stack>
+

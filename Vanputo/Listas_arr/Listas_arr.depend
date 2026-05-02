@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1777681410 source:/home/alexandersaul/prac_abs2/Listas_arr/main.cpp
+	<iostream>
+	"lista_arr.h"
+
+1777681412 /home/alexandersaul/prac_abs2/Listas_arr/lista_arr.h
+
+1777681420 source:/home/alexandersaul/prac_abs2/Listas_arr/lista_arr.cpp
+	"lista_arr.h"
+	<iostream>
+
+1777681420 source:/home/alexandersaul/Unidad_2/Listas_arr/lista_arr.cpp
+	"lista_arr.h"
+	<iostream>
+
+1777681412 /home/alexandersaul/Unidad_2/Listas_arr/lista_arr.h
+
+1777681599 source:/home/alexandersaul/Unidad_2/Listas_arr/main.cpp
+	<iostream>
+	"lista_arr.h"
+

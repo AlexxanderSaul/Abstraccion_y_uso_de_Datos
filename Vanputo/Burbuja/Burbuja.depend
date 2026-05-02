@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1776308944 source:/home/alexandersaul/prac_abs2/Burbuja/main.cpp
+	<iostream>
+	<locale>
+	"burbuja.h"
+
+1776308984 /home/alexandersaul/prac_abs2/Burbuja/burbuja.h
+	<string>
+
+1776308986 source:/home/alexandersaul/prac_abs2/Burbuja/burbuja.cpp
+	"burbuja.h"
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1776308012 source:/home/alexandersaul/prac_abs2/Pila_lib/main.cpp
+	<iostream>
+
+1777700653 source:/home/alexandersaul/Unidad_2/Pila_lib/pila_lib.cpp
+	"pila_lib.h"
+	<iostream>
+
+1777700653 /home/alexandersaul/Unidad_2/Pila_lib/pila_lib.h
+	<stack>
+

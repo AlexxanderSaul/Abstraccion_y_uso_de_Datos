@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1776317015 source:/home/alexandersaul/prac_abs2/Lista_pun_nd/main.cpp
+	<iostream>
+	"lista_pun_nd.h"
+
+1776316887 /home/alexandersaul/prac_abs2/Lista_pun_nd/lista_pun_nd.h
+

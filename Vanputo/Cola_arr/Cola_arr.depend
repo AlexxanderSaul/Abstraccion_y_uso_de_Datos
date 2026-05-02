@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1776311011 source:/home/alexandersaul/prac_abs2/Cola_arr/main.cpp
+	"cola_arr.h"
+
+1776310815 /home/alexandersaul/prac_abs2/Cola_arr/cola_arr.h
+
+1776311152 source:/home/alexandersaul/prac_abs2/Cola_arr/cola_arr.cpp
+	"cola_arr.h"
+	<iostream>
+

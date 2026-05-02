@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1776310375 source:/home/alexandersaul/prac_abs2/Pila_pun_nd/pila_pun_nd.cpp
+	"pila_pun_nd.h"
+	<iostream>
+
+1776310330 /home/alexandersaul/prac_abs2/Pila_pun_nd/pila_pun_nd.h
+
+1777701126 source:/home/alexandersaul/Unidad_2/Pila_pun_nd/pila_pun_nd.cpp
+	"pila_pun_nd.h"
+	<iostream>
+
+1777701126 /home/alexandersaul/Unidad_2/Pila_pun_nd/pila_pun_nd.h
+

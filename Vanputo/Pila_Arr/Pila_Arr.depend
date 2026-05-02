@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1776307607 source:/home/alexandersaul/prac_abs2/Pila_Arr/pila_arr.cpp
+	"pila.h"
+	<iostream>
+
+1776307605 /home/alexandersaul/prac_abs2/Pila_Arr/pila.h
+
+1776307625 source:/home/alexandersaul/prac_abs2/Pila_Arr/main.cpp
+	<iostream>
+	"pila.h"
+
+1777700156 source:/home/alexandersaul/Unidad_2/Pila_Arr/pila_arr.cpp
+	"pila.h"
+	<iostream>
+
+1777699925 /home/alexandersaul/Unidad_2/Pila_Arr/pila.h
+
+1777700016 source:/home/alexandersaul/Unidad_2/Pila_Arr/main.cpp
+	<iostream>
+	"pila.h"
+
