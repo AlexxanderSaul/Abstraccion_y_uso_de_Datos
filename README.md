@@ -38,8 +38,8 @@ Los programas están organizados por unidades:
 
 ##  Autores
 
-Angel Alexander Saul Leon
-Frida Abigail Garcia Galicia
+* Angel Alexander Saul Leon
+* Frida Abigail Garcia Galicia
 
 ## Notas
 
