@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1781663552 source:/home/alexandersaul/Documents/Unidad_3/Grafo/main.cpp
+	<iostream>
+	"Lib_grafo.h"
+
+1781662553 /home/alexandersaul/Documents/Unidad_3/Grafo/Lib_grafo.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
+1781663549 source:/home/alexandersaul/Documents/Unidad_3/Grafo/grafo.cpp
+	"Lib_grafo.h"
+	<climits>
+	<sstream>
+

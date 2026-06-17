@@ -1,0 +1,19 @@
+{
+  "grafo": {
+    "nodos": [
+      {"id":0,"etiqueta":"Casa"},
+      {"id":1,"etiqueta":"Acatitlan"},
+      {"id":2,"etiqueta":"Santa marta"},
+      {"id":3,"etiqueta":"Tepalcates"},
+      {"id":4,"etiqueta":"Metrobus tepalcates"},
+      {"id":5,"etiqueta":"UPIICSA"}
+    ],
+    "conexiones": [
+      {"nodoInicial":0,"nodoFinal":1,"aristaConexion":"Casa-Acatitlan","tiempo":10.0,"costo":10.0},
+      {"nodoInicial":1,"nodoFinal":2,"aristaConexion":"Acatitlan-Santa marta","tiempo":8.0,"costo":0.0},
+      {"nodoInicial":2,"nodoFinal":3,"aristaConexion":"Santa marta-Tepalcates","tiempo":12.0,"costo":0.0},
+      {"nodoInicial":3,"nodoFinal":4,"aristaConexion":"Tepalcates-Metrobus Tepalcates","tiempo":7.0,"costo":0.0},
+      {"nodoInicial":4,"nodoFinal":5,"aristaConexion":"Metrobus Tepalcates-UPIICSA","tiempo":5.0,"costo":0.0},
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1776309684 source:/home/alexandersaul/prac_abs2/Merge_sort/main.cpp
+	<iostream>
+	<locale>
+	"merge.h"
+
+1776309797 /home/alexandersaul/prac_abs2/Merge_sort/merge.h
+	<string>
+
+1776309718 source:/home/alexandersaul/prac_abs2/Merge_sort/merge.cpp
+	"merge.h"
+	<iostream>
+	<fstream>
+

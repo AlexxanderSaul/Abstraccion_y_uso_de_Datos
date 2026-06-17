@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grafo>
+  <nodos>
+    <nodo><id>0</id><etiqueta>Casa</etiqueta></nodo>
+    <nodo><id>1</id><etiqueta>Acatitlan</etiqueta></nodo>
+    <nodo><id>2</id><etiqueta>Santa marta</etiqueta></nodo>
+    <nodo><id>3</id><etiqueta>Tepalcates</etiqueta></nodo>
+    <nodo><id>4</id><etiqueta>Metrobus Tepalcates</etiqueta></nodo>
+    <nodo><id>5</id><etiqueta>UPIICSA</etiqueta></nodo>
+    <nodo><id>0</id><etiqueta>Casa</etiqueta></nodo>
+    <nodo><id>1</id><etiqueta>Acatitlan</etiqueta></nodo>
+    <nodo><id>2</id><etiqueta>Santa marta</etiqueta></nodo>
+    <nodo><id>3</id><etiqueta>Tepalcates</etiqueta></nodo>
+    <nodo><id>4</id><etiqueta>Metrobus tepalcates</etiqueta></nodo>
+    <nodo><id>5</id><etiqueta>UPIICSA</etiqueta></nodo>
+  </nodos>
+  <aristas>
+    <arista>Casa-Acatitlan</arista>
+    <arista>Acatitlan-Santa marta</arista>
+    <arista>Santa marta-Tepalcates</arista>
+    <arista>Tepalcates-Metrobus Tepalcates</arista>
+    <arista>Metrobus Tepalcates-UPIICSA</arista>
+  </aristas>
+  <rutas>
+    <conexiones>
+      <conexionNodo2Nodo>
+        <nodoInicial>0</nodoInicial>
+        <nodoFinal>1</nodoFinal>
+        <aristaConexion>Casa-Acatitlan</aristaConexion>
+        <tiempo>10</tiempo>
+        <costo>10</costo>
+      </conexionNodo2Nodo>
+      <conexionNodo2Nodo>
+        <nodoInicial>1</nodoInicial>
+        <nodoFinal>2</nodoFinal>
+        <aristaConexion>Acatitlan-Santa marta</aristaConexion>
+        <tiempo>8</tiempo>
+        <costo>0</costo>
+      </conexionNodo2Nodo>
+      <conexionNodo2Nodo>
+        <nodoInicial>2</nodoInicial>
+        <nodoFinal>3</nodoFinal>
+        <aristaConexion>Santa marta-Tepalcates</aristaConexion>
+        <tiempo>12</tiempo>
+        <costo>0</costo>
+      </conexionNodo2Nodo>
+      <conexionNodo2Nodo>
+        <nodoInicial>3</nodoInicial>
+        <nodoFinal>4</nodoFinal>
+        <aristaConexion>Tepalcates-Metrobus Tepalcates</aristaConexion>
+        <tiempo>7</tiempo>
+        <costo>0</costo>
+      </conexionNodo2Nodo>
+      <conexionNodo2Nodo>
+        <nodoInicial>4</nodoInicial>
+        <nodoFinal>5</nodoFinal>
+        <aristaConexion>Metrobus Tepalcates-UPIICSA</aristaConexion>
+        <tiempo>5</tiempo>
+        <costo>0</costo>
+      </conexionNodo2Nodo>
+      <conexionNodo2Nodo>
+        <nodoInicial>0</nodoInicial>
+        <nodoFinal>1</nodoFinal>
+        <aristaConexion>Casa-Acatitlan</aristaConexion>
+        <tiempo>10</tiempo>
+        <costo>10</costo>
+      </conexionNodo2Nodo>
+      <conexionNodo2Nodo>
+        <nodoInicial>1</nodoInicial>
+        <nodoFinal>2</nodoFinal>
+        <aristaConexion>Acatitlan-Santa marta</aristaConexion>
+        <tiempo>8</tiempo>
+        <costo>0</costo>
+      </conexionNodo2Nodo>
+      <conexionNodo2Nodo>
+        <nodoInicial>2</nodoInicial>
+        <nodoFinal>3</nodoFinal>
+        <aristaConexion>Santa marta-Tepalcates</aristaConexion>
+        <tiempo>12</tiempo>
+        <costo>0</costo>
+      </conexionNodo2Nodo>
+      <conexionNodo2Nodo>
+        <nodoInicial>3</nodoInicial>
+        <nodoFinal>4</nodoFinal>
+        <aristaConexion>Tepalcates-Metrobus Tepalcates</aristaConexion>
+        <tiempo>7</tiempo>
+        <costo>0</costo>
+      </conexionNodo2Nodo>
+      <conexionNodo2Nodo>
+        <nodoInicial>4</nodoInicial>
+        <nodoFinal>5</nodoFinal>
+        <aristaConexion>Metrobus Tepalcates-UPIICSA</aristaConexion>
+        <tiempo>5</tiempo>
+        <costo>0</costo>
+      </conexionNodo2Nodo>
+    </conexiones>
+  </rutas>
+</grafo>

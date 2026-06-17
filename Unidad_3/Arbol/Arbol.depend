@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1781664784 source:/home/alexandersaul/Documents/Unidad_3/Arbol/Arbol.cpp
+	"Arbol.h"
+	<climits>
+
+1781664784 /home/alexandersaul/Documents/Unidad_3/Arbol/Arbol.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
