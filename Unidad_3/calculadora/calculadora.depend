@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1781230582 source:/home/alexandersaul/Documents/Tercer_departamental/practicas_abs_adt/calculadora/main.cpp
+	<iostream>
+	"calculadora.h"
+	<fstream>
+	<string>
+	<vector>
+
+1781230325 /home/alexandersaul/Documents/Tercer_departamental/practicas_abs_adt/calculadora/calculadora.h
+	<string>
+	<vector>
+	<utility>
+
+1781230582 source:/home/alexandersaul/Documents/Unidad_3/calculadora/main.cpp
+	<iostream>
+	"calculadora.h"
+	<fstream>
+	<string>
+	<vector>
+
+1781230325 /home/alexandersaul/Documents/Unidad_3/calculadora/calculadora.h
+	<string>
+	<vector>
+	<utility>
+
+1781567754 source:/home/alexandersaul/Documents/Unidad_3/calculadora/calculadora.cpp
+	"calculadora.h"
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registros>
+  <registro numero="1">
+    <campo nombre="programa">calculadora</campo>
+    <campo nombre="numeros">15.000000 85.000000</campo>
+    <campo nombre="operacion">suma</campo>
+    <campo nombre="resultado">100.000000</campo>
+  </registro>
+</registros>

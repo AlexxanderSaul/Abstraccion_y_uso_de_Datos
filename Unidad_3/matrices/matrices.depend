@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1781232282 source:/home/alexandersaul/Documents/Tercer departamental/matrices/matrices.cpp
+	"matrices.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1781232282 /home/alexandersaul/Documents/Tercer departamental/matrices/matrices.h
+
+1781232411 source:/home/alexandersaul/Documents/Tercer departamental/matrices/main.cpp
+	<iostream>
+	"matrices.h"
+
